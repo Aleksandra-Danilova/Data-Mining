@@ -1,2 +1,2 @@
 # Data-Mining
-This notebook includes preprocessing basics on a dataset which describes credit risks.
+This notebooks include topics such as preprocessing basics, association rules, and regression.
